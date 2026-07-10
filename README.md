@@ -1,29 +1,29 @@
-# Reward Tracker
+# Reward Tracker v2
 
-A phone-friendly web app for tracking Freecash-style game rewards.
+A mobile-first tracker for Freecash-style game rewards.
 
 ## Features
 
-- Add a game task, reward value, target and deadline
-- Log levels, tournament wins or other milestones
-- Automatically move completed rewards to **Pending**
-- Mark a reward **Paid** once it is honoured
-- Automatically move expired unfinished tasks to **Incomplete**
-- Save everything locally in the browser
-- Export and import JSON backups
-- Install to an iPhone or iPad Home Screen
-- Basic offline support
+- Active, pending, paid and incomplete pots
+- Automatic expiry of unfinished rewards
+- Smart sorting by urgency, reward, value per day or name
+- Daily progress required versus actual pace
+- Dashboard for active, pending, paid, missed and lifetime value
+- Success rate
+- Favourite/pinned offers
+- Time-played tracking and estimated reward per hour
+- Milestone history
+- Proof references for completion screenshots and notes
+- Search, backup export and backup import
+- Automatic migration from Reward Tracker v1 browser data
+- Installable PWA with offline support
 
 ## Live app
 
-Once GitHub Pages is enabled for the `main` branch and repository root, the app will be available at:
-
-`https://zfrck89yps-cell.github.io/Reward-tracker/`
+https://zfrck89yps-cell.github.io/Reward-tracker/
 
 ## Install on iPhone or iPad
 
-1. Open the live app in Safari.
-2. Tap **Share**.
-3. Tap **Add to Home Screen**.
+Open the live app in Safari, tap **Share**, then **Add to Home Screen**.
 
-The tracker data is stored on that device, so use **Export backup** occasionally.
+Data is stored in the browser on that device. Export a backup occasionally.
