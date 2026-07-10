@@ -1,0 +1,10 @@
+{
+  "name": "Reward Tracker",
+  "short_name": "Rewards",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f1013",
+  "theme_color": "#101114",
+  "description": "Track game reward tasks, progress, deadlines, pending payments and paid rewards."
+}
